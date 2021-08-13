@@ -1,8 +1,8 @@
-function PostPage() {
+function AllPostsPage() {
   return (
    <>
    </>
   )
 }
 
-export default PostPage;
+export default AllPostsPage;
