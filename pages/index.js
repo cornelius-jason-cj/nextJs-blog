@@ -1,5 +1,5 @@
 import Hero from '../components/hero/hero';
-import FeaturedPost from '../components/featured-posts/featured-posts'
+import FeaturedPost from '../components/featured-posts/featured-posts';
 
 function HomePage() {
   return (
