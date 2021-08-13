@@ -1,11 +1,11 @@
 .post {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
-  background-color: var(--color-basic-400);
+  background-color: var(--color-match-500);
   text-align: center;
 }
 
 .post a {
-  color: var(--color-basic-100);
+  color: var(--color-basic-400);
 }
 
 .image {
@@ -29,7 +29,7 @@
 
 .content time {
   font-style: italic;
-  color: var(--color-basic-100);
+  color: var(--color-basic-400);
 }
 
 .content p {
